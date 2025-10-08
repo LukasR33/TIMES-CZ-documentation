@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
@@ -7,4 +8,4 @@ include:
   - README.md
   - LICENSE.md
   
-theme: jekyll-theme-tactile
+remote_theme: pages-themes/leap-day@v0.2.0
