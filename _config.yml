@@ -6,6 +6,6 @@ relative_links:
   collections: true
 include:
   - README.md
-  - LICENSE.md
+  - License.md
   
 remote_theme: pages-themes/leap-day@v0.2.0
