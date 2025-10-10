@@ -1,5 +1,5 @@
 # TIMES-CZ v03.0 Documentation
-**Authors:** Lukáš Rečka, Dali Laxton, Lukáš Vorel  
+**Authors:** Lukáš Rečka, Dali Laxton, Lukáš Vorel, Vojtěch Máca  
 **Date:** October 2025  
 **Model Version:** 3.0
 
