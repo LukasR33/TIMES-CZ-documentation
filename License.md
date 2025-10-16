@@ -1,5 +1,5 @@
 
-TIMES-CZ v03.0 Documentation © 2025 by Lukáš Rečka, Dali Laxton, Lukáš Vorel is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0.)
+TIMES-CZ v03.0 Documentation © 2025 by Lukáš Rečka, Dali Laxton, Lukáš Vorel, Vojtěch Máca is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0.)
 
 **Source:** https://github.com/LukasR33/TIMES-CZ-documentation
 
