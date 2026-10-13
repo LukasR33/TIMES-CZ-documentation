@@ -100,7 +100,7 @@ The model uses **2019** as its reference year, with all energy flows, emission i
 ### 2.2 Temporal Resolution
 
 #### Modeling Periods
-- **2019-2021, 2021-2023** (2-year periods)
+- **2019-2021, 2022-2023** (2-year periods)
 - **2025, 2030, 2035, 2040, 2045, 2050** (5-year periods; milestone year represents period center)
 
 #### Seasonal Definition
